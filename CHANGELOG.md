@@ -1,3 +1,7 @@
+## 2.3.0
+
+* Add Swift Package Manager support on iOS
+
 ## 2.1.0
 
 * Removed reliance of CFBundleAlternateIcons
